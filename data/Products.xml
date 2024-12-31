@@ -1,0 +1,8 @@
+<Produits>
+  <Produit>
+    <Id>1</Id>
+    <Titre>Lorem, ipsum.</Titre>
+    <Description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur dignissimos, eveniet blanditiis expedita maiores nostrum consectetur facere fugit mollitia quisquam.</Description>
+    <Prix>20DH</Prix>
+  </Produit> 
+</Produits>
